@@ -1,0 +1,10 @@
+flask
+flask_script
+flask_wtf
+wtforms
+flask_sqlalchemy
+flask_migrate
+flask_login
+werkzeug
+wtforms.validators
+psycopg2
